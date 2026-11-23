@@ -1,2 +1,2 @@
 # day7-git-practice
-About: version A
+About: version B
